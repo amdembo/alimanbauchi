@@ -6,7 +6,7 @@
 			margin-top:2em;
 			font-size:.85em;
 			background-color: #eee;
-		}
+		} 
 		.properties-table th, .properties-table td {
 			text-align: left;
 			padding: 10px;
@@ -165,7 +165,7 @@
 	#demo-1 {
       min-height:390px;
 	}
-	
+	 
 }
 @media (max-width:480px){
 	.zs-enabled .zs-slideshow .zs-bullets {
