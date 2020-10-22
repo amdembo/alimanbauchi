@@ -19,6 +19,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 /* ====================================================================================================================
  * RESETS
  * ====================================================================================================================*/
@@ -26,6 +27,7 @@
 .flex-slider a:hover {
   outline: none;
 }
+
 .slides,
 .slides > li,
 .flex-control-nav,
@@ -34,6 +36,7 @@
   padding: 0;
   list-style: none;
 }
+
 .flex-pauseplay span {
   text-transform: capitalize;
 }
@@ -44,14 +47,17 @@
   margin: 0;
   padding: 0;
 }
+
 .flexslider .slides > li {
   display: none;
   -webkit-backface-visibility: hidden;
 }
+
 .flexslider .slides img {
   width: 100%;
   display: block;
 }
+
 .flexslider .slides:after {
   content: "\0020";
   display: block;
